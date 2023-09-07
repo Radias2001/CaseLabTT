@@ -50,7 +50,7 @@ public class Main {
     }
 
     public static void main(String[] args) throws IOException {
-        //Task2();
+        Task2();
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter string: \n");
